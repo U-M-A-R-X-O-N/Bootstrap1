@@ -1,0 +1,15 @@
+body {
+  background-color: #004047;
+}
+
+.list {
+  background-color: #012F34;
+}
+
+span {
+  display: inline-block;
+  border-radius: 50%;
+  left: 40%;
+  top: 87%;
+  font-size: 1.5rem;
+}
